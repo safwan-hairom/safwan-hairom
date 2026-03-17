@@ -70,8 +70,8 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: (your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/safwanhairom/
+- 📧 Email: safwanhairom@gmail.com
 
 ---
 
