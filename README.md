@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Safwan 👋
 
-<!--
-**safwan-hairom/safwan-hairom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer | Mobile Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 2+ years in QA Automation (Katalon, API, UAT)
+- Experience in mobile apps (Flutter, React Native)
+- Focus on building reliable, scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- QA: Katalon, API Testing, Test Strategy
+- Dev: Flutter, React Native, JavaScript
+- Tools: Git, CI/CD, Postman
+
+## 📌 Featured Projects
+👉 [Automation Framework](link)
+👉 [Mobile App Project](link)
+👉 [Test Case Management Tool](link)
+
+## 📫 Contact
+- LinkedIn
+- Email
